@@ -1,4 +1,4 @@
-# Building a Domain Expert Model
+# Domain Expert Model
 
 This repository contains a demonstration of the fine-tuning process for the Meta Llama2 7B model. The process includes model evaluation before and after fine-tuning, as well as screenshots of the response before and after fine-tuning with an IT-specific data.
 
